@@ -1,28 +1,28 @@
 # Jogo da Forca
 
-![](https://i.imgur.com/H0c1mse.gif)
+![] (https://i.imgur.com/H0c1mse.gif)
 
 
 ## Divirta-se
 
-- Delicie-se com esse moderno e inovador jogo da forca. Um jogo nunca antes visto. Interativo. Dinâmico e muito divertido.
-- Dê o seu melhor para salvar uma pessoa da forca. Não se esqueça, ela depende de você. Portanto, use bem a cabeça!
-- Palpite letras para descobrir a palavra escondida. Você tem cinco chances!
+- Delicie-se com esse moderno e inovador jogo da forca. Um jogo nunca antes visto. Interativo. DinÃ¢mico e muito divertido.
+- DÃª o seu melhor para salvar uma pessoa da forca. NÃ£o se esqueÃ§a, ela depende de vocÃª. Portanto, use bem a cabeÃ§a!
+- Palpite letras para descobrir a palavra escondida. VocÃª tem cinco chances!
 
 
 
 ## Como Utilizar
-1. Clone o repositório ou baixe o código fonte do Jogo da Forca.
-2. Abra ou terminal ou o prompt de comando e navegue até a pasta raiz do Jogo da Forca.
-3. Utilize o comando abaixo para restaurar as dependências do projeto.
+1. Clone o repositÃ³rio ou baixe o cÃ³digo fonte do Jogo da Forca.
+2. Abra ou terminal ou o prompt de comando e navegue atÃ© a pasta raiz do Jogo da Forca.
+3. Utilize o comando abaixo para restaurar as dependÃªncias do projeto.
 ```
-dotnot restore
+dotnet restore
 ```
-4. Em seguida, compile a solução utilizando o comando: 
+4. Em seguida, compile a soluÃ§Ã£o utilizando o comando: 
 ```
 dotnet build --configuration Release
 ```
-5. Para executar o arquivo compilado, navegue até a pasta 
+5. Para executar o arquivo compilado, navegue atÃ© a pasta 
 > ./JogoDaForcaDefinitive.ConsoleApp/bin/Release/net8.0/
 6. Execute o arquivo:
 ```
@@ -32,5 +32,5 @@ JogoDaForcaDefinitive.ConsoleApp.exe
 
 ## Requisitos
 
-- .NET SDK (recomendado .NET 8.0 ou superior) para compilação e execução do projeto.
+- .NET SDK (recomendado .NET 8.0 ou superior) para compilaÃ§Ã£o e execuÃ§Ã£o do projeto.
 
