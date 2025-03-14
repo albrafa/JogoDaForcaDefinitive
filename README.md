@@ -1,6 +1,6 @@
 # Jogo da Forca
 
-![] (https://i.imgur.com/H0c1mse.gif)
+![](https://i.imgur.com/H0c1mse.gif)
 
 
 ## Divirta-se
